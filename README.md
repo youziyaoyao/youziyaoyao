@@ -3,7 +3,7 @@
 
 <br />
 
-I am a self-taught and passionate security developer from China
+I am a security developer from China
 
 **About me**
 
