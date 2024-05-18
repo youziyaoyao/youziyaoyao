@@ -15,7 +15,8 @@ I'm a security developer
 
 
 
-| <a href="https://github.com/youziyaoyao/fscan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=youziyaoyao&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/youziyaoyao/fscan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youziyaoyao&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/youziyaoyao/fscan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=youziyaoyao&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/youziyaoyao/fscan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youziyaoyao&layout=compact&theme=buefy&hide_border=true"(https://github.com/youziyaoyao/fscan)
+ /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
