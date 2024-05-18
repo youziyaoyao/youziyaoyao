@@ -7,13 +7,12 @@ I am a security developer from China
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- ❤️ Intern who has practiced for two and a half years
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- ❤️ Likes to sing, dance, rap, and play basketball
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ Have a good mood every day
 
-- 💬 Ask me about anything [here](https://github.com/youziyaoyao/youziyaoyao/issues)
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=youziyaoyao&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youziyaoyao&layout=compact&theme=buefy&hide_border=true" /></a> |
