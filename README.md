@@ -3,7 +3,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I am a self-taught and passionate security developer from China
 
 **About me**
 
