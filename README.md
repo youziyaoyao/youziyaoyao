@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center"><a href="https://github.com/youziyaoyao/youziyaoyao"><img width="80%" alt="Hello, I'm youziyaoyao" src="./assets/1.gif" /></a></p>
+<p align="center"><a href="https://github.com/youziyaoyao/youziyaoyao"><img width="80%" alt="Hello, I'm youziyaoyao" src="./assets/1.png" /></a></p>
 
 <br />
 
