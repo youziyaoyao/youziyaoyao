@@ -22,10 +22,10 @@ I'm a security developer
 
 
 <a href="https://github.com/youziyaoyao/fscan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youziyaoyao&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youziyaoyao&repo=https://github.com/youziyaoyao/fscan&theme=buefy" />
 </a>
 <a href="https://github.com/youziyaoyao/fscan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youziyaoyao&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youziyaoyao&repo=https://github.com/youziyaoyao/fscan&theme=buefy" />
 </a>
 
 <br />
